@@ -1,9 +1,7 @@
 ### Hi there 👋
 <a href="https://www.facebook.com/polkul.lovejareonlap/"> Facebook </a>
 
-**Mack100loves/Mack100loves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Mack100loves/Mack100loves** is a ✨ _special_ ✨ 
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)  
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
